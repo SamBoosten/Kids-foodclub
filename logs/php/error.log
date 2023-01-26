@@ -1,0 +1,1 @@
+[25-Jan-2023 14:12:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
