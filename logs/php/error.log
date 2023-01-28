@@ -5,3 +5,15 @@
 [26-Jan-2023 12:09:43 UTC] PHP Warning:  Undefined array key "postId" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\block\class-post-title.php on line 52
 [27-Jan-2023 10:09:43 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1489
 [27-Jan-2023 10:09:43 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1500
+[27-Jan-2023 15:52:52 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:02:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:06:12 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:21:56 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:22:17 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:26:11 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:26:50 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:30:12 UTC] PHP Warning:  Undefined array key "elementId" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\block\class-nav-menu.php on line 26
+[27-Jan-2023 16:32:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:47:17 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 19:35:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 20:36:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
