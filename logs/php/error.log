@@ -43,3 +43,4 @@
 [29-Jan-2023 13:30:38 UTC] PHP Warning:  Undefined array key "elementId" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\block\class-nav-menu.php on line 26
 [29-Jan-2023 13:30:39 UTC] PHP Warning:  Undefined array key "elementId" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\block\class-social-share-facebook.php on line 37
 [29-Jan-2023 13:30:40 UTC] PHP Warning:  Undefined array key "elementId" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\block\class-social-share-twitter.php on line 37
+[29-Jan-2023 15:03:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
