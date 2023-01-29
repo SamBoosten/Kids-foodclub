@@ -45,3 +45,14 @@
 [29-Jan-2023 13:30:40 UTC] PHP Warning:  Undefined array key "elementId" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\block\class-social-share-twitter.php on line 37
 [29-Jan-2023 15:03:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
 [29-Jan-2023 15:45:06 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[29-Jan-2023 15:52:32 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[29-Jan-2023 15:53:49 UTC] PHP Warning:  Undefined array key "form_success_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1837
+[29-Jan-2023 15:53:49 UTC] PHP Warning:  Undefined array key "form_error_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1838
+[29-Jan-2023 15:55:08 UTC] PHP Warning:  Undefined array key "form_success_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1837
+[29-Jan-2023 15:55:08 UTC] PHP Warning:  Undefined array key "form_error_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1838
+[29-Jan-2023 15:55:51 UTC] PHP Warning:  Undefined array key "form_success_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1837
+[29-Jan-2023 15:55:51 UTC] PHP Warning:  Undefined array key "form_error_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1838
+[29-Jan-2023 15:56:53 UTC] PHP Warning:  Undefined array key "form_success_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1837
+[29-Jan-2023 15:56:53 UTC] PHP Warning:  Undefined array key "form_error_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1838
+[29-Jan-2023 15:57:42 UTC] PHP Warning:  Undefined array key "form_success_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1837
+[29-Jan-2023 15:57:42 UTC] PHP Warning:  Undefined array key "form_error_notice" in C:\Users\Sam\Local Sites\kids-foodclub\app\public\wp-content\plugins\gutenverse\includes\class-api.php on line 1838
