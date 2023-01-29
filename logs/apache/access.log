@@ -5905,3 +5905,5 @@
 127.0.0.1 - - [28/Jan/2023:10:44:26 +0100] "GET /wp-json/wp/v2/settings?_locale=user HTTP/1.0" 500 125
 127.0.0.1 - - [28/Jan/2023:10:44:26 +0100] "GET /wp-json/wp/v2/templates/zeever//front-page?context=edit&_locale=user HTTP/1.0" 500 125
 127.0.0.1 - - [28/Jan/2023:10:44:26 +0100] "GET /wp-json/wp/v2/global-styles/30?_locale=user HTTP/1.0" 500 125
+127.0.0.1 - - [28/Jan/2023:10:45:56 +0100] "GET / HTTP/1.0" 200 107842
+127.0.0.1 - - [28/Jan/2023:10:46:05 +0100] "GET /favicon.ico HTTP/1.0" 302 -
